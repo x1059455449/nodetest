@@ -23,7 +23,7 @@
     "passport-jirengu": "^1.0.0",
     "sequelize": "^3.30.2",
     "serve-favicon": "~2.3.2",
-    "sqlite3": "^3.1.13",
+    "sqlite3": "^5.1.6",
     "style-loader": "^0.14.1"
   },
   "devDependencies": {
